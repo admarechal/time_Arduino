@@ -1,7 +1,8 @@
 /*
 Adafruit Arduino - Lesson 4. 8 LEDs and a Shift Register
 */
-#include <virtuabotixRTC.h>           
+#include <virtuabotixRTC.h> 
+# include<i>;          
 
 // Determina os pinos ligados ao modulo
 // myRTC(clock, data, rst)
